@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/ggangb/ggangb.github.io/static/css/main.241951ba.css",
-    "main.js": "/ggangb/ggangb.github.io/static/js/main.1c58257e.js",
-    "static/js/787.763980dc.chunk.js": "/ggangb/ggangb.github.io/static/js/787.763980dc.chunk.js",
-    "static/media/yeongyang.png": "/ggangb/ggangb.github.io/static/media/yeongyang.4d7b23d1194a439586bb.png",
-    "static/media/profile.png": "/ggangb/ggangb.github.io/static/media/profile.5ff19d1a5ba0fcd87eed.png",
-    "static/media/globe.svg": "/ggangb/ggangb.github.io/static/media/globe.5c70eb7a75556b081852306dfc6ae000.svg",
-    "index.html": "/ggangb/ggangb.github.io/index.html",
-    "static/media/mark-github.svg": "/ggangb/ggangb.github.io/static/media/mark-github.06cbf6003f0503529f8552f9aa0e6491.svg",
-    "main.241951ba.css.map": "/ggangb/ggangb.github.io/static/css/main.241951ba.css.map",
-    "main.1c58257e.js.map": "/ggangb/ggangb.github.io/static/js/main.1c58257e.js.map",
-    "787.763980dc.chunk.js.map": "/ggangb/ggangb.github.io/static/js/787.763980dc.chunk.js.map"
+    "main.css": "/ggangb.github.io/static/css/main.241951ba.css",
+    "main.js": "/ggangb.github.io/static/js/main.3d58b5b2.js",
+    "static/js/787.763980dc.chunk.js": "/ggangb.github.io/static/js/787.763980dc.chunk.js",
+    "static/media/yeongyang.png": "/ggangb.github.io/static/media/yeongyang.4d7b23d1194a439586bb.png",
+    "static/media/profile.png": "/ggangb.github.io/static/media/profile.5ff19d1a5ba0fcd87eed.png",
+    "static/media/globe.svg": "/ggangb.github.io/static/media/globe.5c70eb7a75556b081852306dfc6ae000.svg",
+    "index.html": "/ggangb.github.io/index.html",
+    "static/media/mark-github.svg": "/ggangb.github.io/static/media/mark-github.06cbf6003f0503529f8552f9aa0e6491.svg",
+    "main.241951ba.css.map": "/ggangb.github.io/static/css/main.241951ba.css.map",
+    "main.3d58b5b2.js.map": "/ggangb.github.io/static/js/main.3d58b5b2.js.map",
+    "787.763980dc.chunk.js.map": "/ggangb.github.io/static/js/787.763980dc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.241951ba.css",
-    "static/js/main.1c58257e.js"
+    "static/js/main.3d58b5b2.js"
   ]
 }
