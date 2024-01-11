@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ggangb.github.io/static/css/main.241951ba.css",
-    "main.js": "/ggangb.github.io/static/js/main.3d58b5b2.js",
+    "main.js": "/ggangb.github.io/static/js/main.a0f374ed.js",
     "static/js/787.763980dc.chunk.js": "/ggangb.github.io/static/js/787.763980dc.chunk.js",
     "static/media/yeongyang.png": "/ggangb.github.io/static/media/yeongyang.4d7b23d1194a439586bb.png",
     "static/media/profile.png": "/ggangb.github.io/static/media/profile.5ff19d1a5ba0fcd87eed.png",
@@ -9,11 +9,11 @@
     "index.html": "/ggangb.github.io/index.html",
     "static/media/mark-github.svg": "/ggangb.github.io/static/media/mark-github.06cbf6003f0503529f8552f9aa0e6491.svg",
     "main.241951ba.css.map": "/ggangb.github.io/static/css/main.241951ba.css.map",
-    "main.3d58b5b2.js.map": "/ggangb.github.io/static/js/main.3d58b5b2.js.map",
+    "main.a0f374ed.js.map": "/ggangb.github.io/static/js/main.a0f374ed.js.map",
     "787.763980dc.chunk.js.map": "/ggangb.github.io/static/js/787.763980dc.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.241951ba.css",
-    "static/js/main.3d58b5b2.js"
+    "static/js/main.a0f374ed.js"
   ]
 }
